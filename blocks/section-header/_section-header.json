@@ -1,0 +1,12 @@
+{
+  "definitions": [
+    {
+      "title": "Section Header",
+      "id": "section-header",
+      "fields": [
+        { "component": "text", "name": "title", "label": "Title" },
+        { "component": "text", "name": "accent-color", "label": "Accent Color (Hex)" }
+      ]
+    }
+  ]
+}
