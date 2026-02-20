@@ -1,0 +1,11 @@
+{
+  "definitions": [
+    {
+      "title": "Important Safety Information",
+      "id": "important-safety-information",
+      "fields": [
+        { "component": "richtext", "name": "safety-content-markdown", "label": "Safety Content" }
+      ]
+    }
+  ]
+}
