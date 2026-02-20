@@ -1,0 +1,13 @@
+{
+  "definitions": [
+    {
+      "title": "Video",
+      "id": "video",
+      "fields": [
+        { "component": "text", "name": "video-url", "label": "Video URL" },
+        { "component": "image", "name": "poster-image", "label": "Poster Image" },
+        { "component": "text", "name": "caption-text", "label": "Caption" }
+      ]
+    }
+  ]
+}
