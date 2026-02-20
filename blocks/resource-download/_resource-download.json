@@ -1,0 +1,13 @@
+{
+  "definitions": [
+    {
+      "title": "Resource Download",
+      "id": "resource-download",
+      "fields": [
+        { "component": "text", "name": "document-title", "label": "Document Title" },
+        { "component": "text", "name": "file-url", "label": "File URL" },
+        { "component": "text", "name": "file-size", "label": "File Size" }
+      ]
+    }
+  ]
+}
