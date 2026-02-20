@@ -1,0 +1,14 @@
+{
+  "definitions": [
+    {
+      "title": "Teaser Card",
+      "id": "teaser-card",
+      "fields": [
+        { "component": "image", "name": "image", "label": "Image" },
+        { "component": "text", "name": "title", "label": "Title" },
+        { "component": "text", "name": "description", "label": "Description" },
+        { "component": "reference", "name": "link", "label": "Link" }
+      ]
+    }
+  ]
+}
